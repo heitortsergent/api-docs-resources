@@ -9,3 +9,7 @@ Resources for writing API docs.
 - [Write the Docs API Documentation](http://www.writethedocs.org/guide/#api-documentation)
 - [8 Great Examples of Developer Documentation](https://zapier.com/engineering/great-documentation-examples/)
 - [A documentation crash course for developers](https://hackernoon.com/a-documentation-crash-course-45006a85c15c#.6kgrte4wf)
+
+Examples:
+
+- [Algolia](https://www.algolia.com/doc/)
